@@ -1,5 +1,7 @@
 google.com, pub-5692626106080843, DIRECT, f08c47fec0942fa0
 
+chartboost.com,<publisher id>,DIRECT
+
 inmobi.com, 3a639282d6ff482ea89af0f1f7b2963a, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
